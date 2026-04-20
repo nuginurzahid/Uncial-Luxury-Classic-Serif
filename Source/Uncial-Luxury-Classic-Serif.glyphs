@@ -8,6 +8,7 @@ indonesia delusional
 minimum
 hambur/r.ss01 gecf/f.ss01 ontsiv
 sometimes need a breathe b/r.ss01 ea/t.ss01 he
+
 ",
 "nnononoo
 nnanoaoo
@@ -130,7 +131,8 @@ tag = aalt;
 },
 {
 automatic = 1;
-code = "sub r by r.ss01;
+code = "sub f by f.ss01;
+sub r by r.ss01;
 sub t by t.ss01;
 ";
 labels = (
