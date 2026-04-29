@@ -5215,7 +5215,7 @@ unicode = 209;
 glyphname = O;
 kernLeft = O;
 kernRight = O;
-lastChange = "2026-04-29 03:01:05 +0000";
+lastChange = "2026-04-29 03:06:02 +0000";
 layers = (
 {
 anchors = (
@@ -35460,7 +35460,7 @@ m002 = {
 "@MMK_R_V" = -55;
 "@MMK_R_W" = -50;
 "@MMK_R_X" = -80;
-"@MMK_R_Y" = -80;
+"@MMK_R_Y" = -70;
 "@MMK_R_Z" = -40;
 "@MMK_R_a" = -30;
 "@MMK_R_f" = -50;
